@@ -49,7 +49,7 @@ https://github.com/xtacocorex/CHIP_IO
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3vnc.png)
 1. Launch Pi ssh session with putty or localy through VNC and type following two commands Pi command prompt to update it. "sudo apt-get update" and "sudo apt-get upgrade" (This will take a while)
 1. Download this github project as zip file with following command
-  "wget https://github.com/nassiramalik/IOT-Pi3-Alexa-Automation/archive/master.zip"
+  "wget https://github.com/nassir-malik/IOT-Pi3-3Way_Switch_Home_Automation/archive/master.zip"
 1. Unzip downloaded zip file with "unzip master.zip" command and type "cd IOT-Pi3-Alexa-Automation-master" command after unzip completes
 1. (Optional) Entery "sudo pip install virtualenv" command to install virtualenv on Pi
 1. (Optional) Enter "virtualenv ipaa-env" command to create virtual environment for your project
