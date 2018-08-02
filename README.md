@@ -10,7 +10,7 @@ https://github.com/xtacocorex/CHIP_IO
 
 ## Instructions:
 
-1. Install following packages
+1. Enable i2c protocol in pi sesstions and install following packages
 
     sudo pip install adafruit-ads1x15
     
