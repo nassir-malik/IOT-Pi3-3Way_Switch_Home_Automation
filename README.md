@@ -10,6 +10,10 @@ https://github.com/xtacocorex/CHIP_IO
 
 ## Instructions:
 
+1. Install following packages
+    sudo pip install adafruit-ads1x15
+    sudo apt-get install i2c-tools
+
 1. Download "RASPBIAN STRETCH WITH DESKTOP" and unzip "2017-04-10-raspbian-jessie.zip"
   https://www.raspberrypi.org/downloads/raspbian/
 
