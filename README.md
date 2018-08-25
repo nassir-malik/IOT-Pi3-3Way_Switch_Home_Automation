@@ -1,6 +1,6 @@
 # IOT-Pi3-Alexa-Automation
 
-Youtube tutorial https://www.youtube.com/watch?v=uS5dTx8vjq4
+Youtube tutorial https://www.youtube.com/watch?v=pBxeHlvF4eQ
 
 Use Raspberry Pi 3 as home automation device with Alexa. This project allows you to control multiple devices connected to Raspberry Pi 3 with voice command. You are able to control GPIO pins thus control GPIO connected devices.
 
