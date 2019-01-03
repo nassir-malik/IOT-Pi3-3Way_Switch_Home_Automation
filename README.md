@@ -2,6 +2,8 @@
 
 Youtube tutorial https://www.youtube.com/watch?v=pBxeHlvF4eQ
 
+I updated the code. It is working with Echo dot Gen 3 and Gen 2
+
 Use Raspberry Pi 3 as home automation device with Alexa. This project allows you to control multiple devices connected to Raspberry Pi 3 with voice command. You are able to control GPIO pins thus control GPIO connected devices.
 
 Ported from original repos for python 3
